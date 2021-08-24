@@ -33,6 +33,10 @@
 <br />
 
 ---
+### 📕 Latest LabVIEW360 Youtube Videos
+<!-- LabVIEW360_YOUTUBE:START -->
+<!-- LabVIEW360_YOUTUBE:END -->
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
