@@ -35,6 +35,7 @@
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [第一篇Dev.to文章](https://dev.to/benctw/dev-to-2g69)
 <!-- BLOG-POST-LIST:END -->
 
 
