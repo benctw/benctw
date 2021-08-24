@@ -42,6 +42,10 @@
 - [第一篇Dev.to文章](https://dev.to/benctw/dev-to-2g69)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benctw&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [website]: https://cckai.org
