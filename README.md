@@ -35,6 +35,11 @@
 ---
 ### 🎬 Latest LabVIEW360 Youtube Videos
 <!-- LabVIEW360_YOUTUBE:START -->
+- [在專案中加入google雲端資源 以GDrive, Google sheet為例【貝爾聲學科技 陳冠丞】LabVIEW360 2020 全線上虛擬網聚](https://www.youtube.com/watch?v=2ojJGjThSws)
+- [Gatsby.js 快速建立第一個網頁【台大網媒所 曾郁翔】LabVIEW360 2020 全線上虛擬網聚](https://www.youtube.com/watch?v=N75NyW9Fe58)
+- [LabVIEW環境下的Line Notify實作【匯智歐透顧問有限公司 羅君平】LabVIEW360 2020 全線上虛擬網聚](https://www.youtube.com/watch?v=3clYjzl4ynU)
+- [圖形程式與辦公室自動化【AutOffice360 高章琛】LabVIEW360 2020 全線上虛擬網聚](https://www.youtube.com/watch?v=QSQOO9x7Uh8)
+- [NI sbRIO 介紹及入門教學【星協系統科技 吳志二】LabVIEW360 2020 全線上虛擬網聚](https://www.youtube.com/watch?v=U2VNDdAlaH8)
 <!-- LabVIEW360_YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
