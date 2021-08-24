@@ -33,7 +33,7 @@
 <br />
 
 ---
-### 📕 Latest LabVIEW360 Youtube Videos
+### 🎬 Latest LabVIEW360 Youtube Videos
 <!-- LabVIEW360_YOUTUBE:START -->
 <!-- LabVIEW360_YOUTUBE:END -->
 
